@@ -1,4 +1,3 @@
-# Obesity_Detector
 ---
 title: Obesity Detector
 emoji: ⚡
